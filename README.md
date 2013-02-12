@@ -1,7 +1,9 @@
 Monokai theme for OS X Terminal
 ===============================
 Author: Chiel Robben
+
 License: MIT
+
 Website: http://pephers.org
 
 About
