@@ -225,7 +225,7 @@
 	<key>UseBoldFonts</key>
 	<false/>
 	<key>UseBrightBold</key>
-	<false/>
+	<true/>
 	<key>columnCount</key>
 	<integer>150</integer>
 	<key>name</key>
